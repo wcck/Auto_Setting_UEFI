@@ -1,0 +1,18 @@
+ [
+ 	{
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 12799,
+                "y": -25941
+            }
+        }
+    },
+ 	{
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    }
+ ]
+ 

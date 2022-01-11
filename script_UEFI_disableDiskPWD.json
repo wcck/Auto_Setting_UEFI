@@ -1,0 +1,3060 @@
+[
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 16922,
+                "y": -29524
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 15968,
+                "y": -28861
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 11364,
+                "y": -25249
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 5558,
+                "y": -20236
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -1286,
+                "y": -13896
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -3858,
+                "y": -12201
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 400
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -5724,
+                "y": -10653
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -10080,
+                "y": -6893
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -12651,
+                "y": -2396
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -14144,
+                "y": 700
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -16841,
+                "y": 5565
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -20242,
+                "y": 10504
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -24597,
+                "y": 15665
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -26380,
+                "y": 18613
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -26920,
+                "y": 20456
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -26920,
+                "y": 22225
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -27086,
+                "y": 23995
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 102
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -28164,
+                "y": 27386
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -28288,
+                "y": 27754
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 200
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -28413,
+                "y": 27754
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -29699,
+                "y": 28418
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -30238,
+                "y": 29302
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -30528,
+                "y": 29671
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 103
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -30943,
+                "y": 30408
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31233,
+                "y": 31071
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31358,
+                "y": 31366
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 197
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 131
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 778
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31441,
+                "y": 30408
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31358,
+                "y": 29523
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31067,
+                "y": 28123
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31026,
+                "y": 27091
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31026,
+                "y": 26943
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31067,
+                "y": 26870
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31192,
+                "y": 26870
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31316,
+                "y": 26870
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 103
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31399,
+                "y": 26870
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 338
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 125
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 841
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -31358,
+                "y": 26501
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -30736,
+                "y": 24879
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -29865,
+                "y": 23331
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -29450,
+                "y": 22520
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 873
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 104
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 8671
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 146
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 320
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 116
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 346
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 125
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 364
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 115
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 360
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 112
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 422
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 132
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 442
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 132
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 426
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 133
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 477
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 151
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 401
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 136
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 465
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 165
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 485
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 144
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F12",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 6496
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 213
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 897
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 224
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 491
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 186
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 723
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 161
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 1894
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 216
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 435
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 174
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 361
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 134
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 482
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 143
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowDown",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 421
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 145
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 682
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 166
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 611
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 121
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 866
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 155
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 413
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 174
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 203
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 149
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 241
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 110
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 158
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 298
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 227
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 131
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 166
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 107
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 131
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 76
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 122
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 63
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 139
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 88
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 150
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 81
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 134
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 79
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 145
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 103
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 244
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 118
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 233
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 131
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 462
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 148
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 850
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 94
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 746
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 173
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 548
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 163
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 426
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 171
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 542
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 98
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 600
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 173
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2426
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 153
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2375
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 159
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 762
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 155
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 893
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 163
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 588
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 134
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 1155
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 168
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 1269
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 156
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 4292
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Digit1",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 198
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Digit1",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 264
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Digit2",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 176
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Digit2",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 275
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Digit3",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 171
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Digit3",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2070
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 177
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 388
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 171
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 659
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 180
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 444
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 169
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Tab",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 541
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 142
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 1103
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 162
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2517
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 188
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 222
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 197
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 102
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 142
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 96
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 97
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 104
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 157
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 98
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 80
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 80
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 69
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 85
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 51
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 82
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 69
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 78
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 52
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 67
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 74
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 69
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 72
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 68
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 68
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 81
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 76
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 73
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 71
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 93
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 58
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 91
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 63
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 90
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 152
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 90
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 83
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 109
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 92
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 122
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 175
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 232
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 168
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "ArrowRight",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2067
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F10",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 176
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "F10",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 924
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 155
+        }
+    },
+    {
+        "event_type": "key",
+        "event": {
+            "key": "Enter",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2843
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7218,
+                "y": 1879
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 0
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": true
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 108
+        }
+    },
+    {
+        "event_type": "mouse_button",
+        "event": {
+            "button": "left",
+            "state": false
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 23173
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -2821,
+                "y": -1512
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 1700,
+                "y": -9842
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 4852,
+                "y": -20089
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 6636,
+                "y": -24364
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 9539,
+                "y": -26133
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 12650,
+                "y": -28345
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 13853,
+                "y": -29377
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 99
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 16922,
+                "y": -30188
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 19577,
+                "y": -31883
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 19950,
+                "y": -32694
+            }
+        }
+    }
+]
