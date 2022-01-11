@@ -6,6 +6,7 @@ import json
 import os
 import platform
 
+# Golobal variable 
 commandList = []
 delayMsList = []
 
@@ -58,9 +59,16 @@ if __name__ == '__main__':
     print(sys.argv[0]) # Python file
     print(sys.argv[1]) # File path
     #print(sys.argv[2]) # IP
+    
+    parserJsonFile(filePath = sys.argv[1])
+    sendCommand()
 
-parserJsonFile(filePath = sys.argv[1])
-sendCommand()
+    # # Get platform setting
+    # osVersion = platform.platform()
+    # print(platform.platform())
+    # if osVersion == None:
+    #     print("[ERROR] UEFI test FAIL.")
+    
 
 
 
