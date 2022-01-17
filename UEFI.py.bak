@@ -6,7 +6,7 @@ import json
 import os
 import platform
 
-# Global variable 
+# Golobal variable 
 commandList = []
 delayMsList = []
 
@@ -24,13 +24,13 @@ def parserJsonFile(filePath):
                 # Get delay ms
                 delayMs = commandList[i].split("millis")[1].split(":")[1].strip("}'}'").strip()
                 delayMs = int(delayMs)/1000
-                print("delay ms is : %d" %(delayMs))
+                print("delay ms is : ", delayMs)
                 delayMsList.append(delayMs)
             
 
 def sendCommand():
     remoteIP = "192.168.54.64"
-    uri = "wss://%s/api/ws?stream=0" %(remoteIP)
+    uri = "wss://%s/api/ws?stream=0"%(remoteIP)
     headers = {"X-KVMD-User": "admin", "X-KVMD-Passwd": "admin"}
     ws = websocket.WebSocket(sslopt={"cert_reqs": ssl.CERT_NONE})
     print(ssl.CERT_NONE)
@@ -42,36 +42,15 @@ def sendCommand():
         sys.exit()
     
     # Send command
-    j = 0
+    j=0
     for i in range(len(commandList)):
-        try:
-            if "millis" in commandList[i]: 
-                print("Sleep %d Second" %(delayMsList[j]))
-                time.sleep(delayMsList[j])                
-                j = j + 1
-            
-            ws.send(commandList[i])
-            print("Send CMD : %s" %(commandList[i]))
-        
-        # Prevent WinError 10054
-        except:
-            # Sleep 5 seconds
-            print("Enter exception and then sleep 5 seconds.")
-            time.sleep(5)
-            
-            # Re-Connect host
-            ws = websocket.WebSocket(sslopt={"cert_reqs": ssl.CERT_NONE})
-            print(ssl.CERT_NONE)
-
-            # Conncet to PiKVM server
-            res = ws.connect(uri, header=headers)
-            if res == False:
-                print('[ERROR] Cannot connect this Web UI.')
-                sys.exit()
+        if "millis" in commandList[i]: 
+            time.sleep(delayMsList[j])
+            j = j + 1
+        ws.send(commandList[i])
     ws.close()
 
 if __name__ == '__main__':
-	start = time.time()
     if len(sys.argv) < 2:
         # Check json file path whether correct        
         if(sys.argv[1].split(".")[-1] != "json"):
@@ -83,10 +62,7 @@ if __name__ == '__main__':
     
     parserJsonFile(filePath = sys.argv[1])
     sendCommand()
-	# Calculate elapsed time
-    end = time.time()
-    print("Recovery Finished! Testing Total Time are : %d" %(end-start))
-	
+
     # # Get platform setting
     # osVersion = platform.platform()
     # print(platform.platform())
