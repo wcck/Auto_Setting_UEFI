@@ -9,7 +9,7 @@ First you need to a json file that recod mouse and keyboard events by PiKVM's We
 
 Type command as below on terminal and then it will start it from remote PC.
 ```js
-$ python UEFI.py jsonFilePath
+$ python parserMacroFiles.py jsonFilePath
 ```
 
 # Controbution
